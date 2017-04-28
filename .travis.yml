@@ -1,6 +1,5 @@
 language: c
+script: make dep && make && make test
 sudo: required
-sodu: scons
 compiler:
   - gcc
-script: make dep && make && make test
