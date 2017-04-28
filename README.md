@@ -11,5 +11,3 @@ Summer 2014
 
 ### Requirements
 sudo apt-get install check
-
-test
